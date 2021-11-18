@@ -3,8 +3,7 @@ Uzdevs app built and supported by A-off Technologies. This page is used to infor
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 ### Information Collection and Use
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to nickname, phone number, profile photo. The information that we request will be retained by us and used as described in this privacy policy.
-The app does use third party services that may collect information used to identify you.
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to nickname, phone number, profile photo. Nickname and profile photo you provided will be shown publicly if you enter the leaderboard on the ‘Arena’ page. The phone number you provided will be used to authenticate and verify you. The phone number you provided will not be shown publicly. The information that we request will be retained by us and used as described in this privacy policy. The app does use third party services that may collect information used to identify you.
 
 ### Log Data
 We want to inform you that whenever you use our Service, in the case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
